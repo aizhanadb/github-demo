@@ -1,0 +1,47 @@
+nav{
+    margin: 40px 70px;
+   
+}
+
+.primary, .secondary, .succes, .error, .warning {
+    color:white;
+    padding: 15px;
+    border: transparent;
+    border-radius: 5px;
+    font-weight: bolder;
+
+
+}
+
+.primary{
+    background-color: #0D6EFD;
+
+
+}
+
+.secondary{
+    background-color: #6C757D;
+    padding: 25px;
+    font-weight: bold;
+
+}
+
+.succes{
+    background-color:#198754;
+    border-radius: 20px;
+
+}
+
+.error{
+    background-color:#DC3545;
+
+}
+
+.warning{
+    background-color:#FFC107;
+    border: transparent;
+    padding: 15px;
+    color:black;
+
+
+}
